@@ -1,4 +1,4 @@
-## Rules of the Time Time Table .
+## Rules of the Time Table .
 ## Developed With Love ❤️📒By Roggers Anguzu
 *A new school teaches the following subjects: Languages, Sciences, Arts, and Sports*
 *Each class session is 1 hour long, and the total teaching time per day is 6 hours,*
