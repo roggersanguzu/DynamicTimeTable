@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.timetable,
+.edit-section {
+  margin: 20px auto;
+  width: 80%;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  border: solid 1px green;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.form-action-buttons {
+  text-align: center;
+}
+
+button,
+input[type="submit"] {
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover,
+input[type="submit"]:hover {
+  background-color: darkgreen;
+}
+
+td.selected {
+  background-color: #d3d3d3;
+}
